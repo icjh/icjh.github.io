@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ごたらぼ - 日記</title>
+    <link>labs from gepper, dialy</link>
+    <atom:link rel="self" type="application/rss+xml" href="/rss.xml" />
+    <description>labs from gepper, dialy</description>
+    <pubDate>Sat, 02 Jul 2016 17:34:50 +0900</pubDate>
+    <lastBuildDate>Sat, 02 Jul 2016 17:34:50 +0900</lastBuildDate>
+    
+    <item>
+      <title>Day001</title>
+      <link>/2014/04/04/day001.html</link>
+      <guid isPermaLink="false">tag:vim-jp.org,2014/44/04:/2014/04/04/day001.html,rev:1</guid>
+      <pubDate>Fri, 04 Apr 2014 04:44:44 +0900</pubDate>
+      <author>vim-jp</author>
+      <description>&lt;p&gt;高校の屋上でパンや弁当を食べてる&lt;br /&gt;
+急に登山が始まる&lt;br /&gt;
+スタートは大学の橋&lt;br /&gt;
+やつともう一人の男とのぼる　途中に人にぶつかる&lt;br /&gt;
+知り合いらしいが僕にはわからない．　そいつには彼女&lt;br /&gt;
+がいた．　山荘でライブがあるらしい．　そいつらと&lt;br /&gt;
+もう一人は　そこで飯を食べることにした．&lt;br /&gt;
+僕とやつはむりやり行く　やつがライブに行きたがっている&lt;/p&gt;
+
+&lt;p&gt;右急カーブで人の死体．人が集まってる&lt;br /&gt;
+カーブの後すぐ　バスに乗る　バスがある．&lt;br /&gt;
+やつが忘れものをとりに行く．僕も忘れものをした．&lt;br /&gt;
+やつが帰ってきた．　３人が乗ると　バスは出発する．&lt;br /&gt;
+忘れ物が取り残される　忘れ物なんかっけな？&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel> 
+</rss>
